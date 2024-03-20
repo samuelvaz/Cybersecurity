@@ -1,0 +1,803 @@
+<?xml version="1.0" ?>
+<Events>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1356</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Information</Level>
+		<Description>The system has successfully booted.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1681</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Error</Level>
+		<Description>Configuration settings were changed.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1505</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Error</Level>
+		<Description>Application error occurred.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1045</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Error</Level>
+		<Description>Configuration settings were changed.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1457</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Warning</Level>
+		<Description>Security permissions were updated.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1128</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Warning</Level>
+		<Description>The system has successfully booted.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1556</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Error</Level>
+		<Description>The system has successfully booted.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1550</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Information</Level>
+		<Description>User login failed due to incorrect credentials.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1895</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Error</Level>
+		<Description>Application error occurred.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1111</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Warning</Level>
+		<Description>User login failed due to incorrect credentials.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1920</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Information</Level>
+		<Description>User login failed due to incorrect credentials.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1340</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Error</Level>
+		<Description>The system has successfully booted.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1587</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Warning</Level>
+		<Description>The system has successfully booted.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1969</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Error</Level>
+		<Description>User login failed due to incorrect credentials.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1437</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Error</Level>
+		<Description>The system has successfully booted.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1115</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Error</Level>
+		<Description>Configuration settings were changed.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1945</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Warning</Level>
+		<Description>User login failed due to incorrect credentials.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1424</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Warning</Level>
+		<Description>Configuration settings were changed.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1974</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Warning</Level>
+		<Description>Security permissions were updated.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1509</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Error</Level>
+		<Description>Security permissions were updated.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1299</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Warning</Level>
+		<Description>Application error occurred.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1071</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Error</Level>
+		<Description>Application error occurred.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1485</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Information</Level>
+		<Description>Security permissions were updated.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1860</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Error</Level>
+		<Description>Security permissions were updated.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1401</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Warning</Level>
+		<Description>Application error occurred.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1271</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Error</Level>
+		<Description>The system has successfully booted.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1191</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Information</Level>
+		<Description>Application error occurred.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1012</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Information</Level>
+		<Description>The system has successfully booted.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1709</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Warning</Level>
+		<Description>User login failed due to incorrect credentials.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1500</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Warning</Level>
+		<Description>The system has successfully booted.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1172</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Information</Level>
+		<Description>Security permissions were updated.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1033</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Warning</Level>
+		<Description>User login failed due to incorrect credentials.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1494</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Error</Level>
+		<Description>The system has successfully booted.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1773</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Warning</Level>
+		<Description>User login failed due to incorrect credentials.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1741</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Warning</Level>
+		<Description>User login failed due to incorrect credentials.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1951</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Error</Level>
+		<Description>Security permissions were updated.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1842</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Information</Level>
+		<Description>The system has successfully booted.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1497</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Warning</Level>
+		<Description>The system has successfully booted.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1290</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Error</Level>
+		<Description>The system has successfully booted.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1800</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Information</Level>
+		<Description>User login failed due to incorrect credentials.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1703</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Error</Level>
+		<Description>Configuration settings were changed.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1110</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Error</Level>
+		<Description>Security permissions were updated.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1861</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Information</Level>
+		<Description>Application error occurred.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1304</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Warning</Level>
+		<Description>Configuration settings were changed.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1506</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Error</Level>
+		<Description>The system has successfully booted.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1577</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Information</Level>
+		<Description>Configuration settings were changed.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1238</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Warning</Level>
+		<Description>Application error occurred.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1085</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Warning</Level>
+		<Description>The system has successfully booted.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1837</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Warning</Level>
+		<Description>Security permissions were updated.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1881</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Error</Level>
+		<Description>User login failed due to incorrect credentials.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1114</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Information</Level>
+		<Description>Security permissions were updated.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1750</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Information</Level>
+		<Description>User login failed due to incorrect credentials.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1974</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Warning</Level>
+		<Description>Configuration settings were changed.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1268</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Error</Level>
+		<Description>Application error occurred.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1593</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Error</Level>
+		<Description>The system has successfully booted.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1441</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Error</Level>
+		<Description>Application error occurred.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1305</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Information</Level>
+		<Description>Application error occurred.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1875</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Warning</Level>
+		<Description>Application error occurred.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1524</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Error</Level>
+		<Description>Application error occurred.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1756</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Information</Level>
+		<Description>Configuration settings were changed.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1101</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Warning</Level>
+		<Description>Application error occurred.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1429</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Error</Level>
+		<Description>Security permissions were updated.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1647</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Error</Level>
+		<Description>Configuration settings were changed.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1243</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Error</Level>
+		<Description>Application error occurred.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1114</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Error</Level>
+		<Description>Security permissions were updated.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1473</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Warning</Level>
+		<Description>Configuration settings were changed.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1261</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Information</Level>
+		<Description>Configuration settings were changed.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1115</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Error</Level>
+		<Description>Security permissions were updated.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1558</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Information</Level>
+		<Description>The system has successfully booted.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1523</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Information</Level>
+		<Description>Security permissions were updated.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1077</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Information</Level>
+		<Description>Application error occurred.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1363</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Warning</Level>
+		<Description>Configuration settings were changed.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1226</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Warning</Level>
+		<Description>Application error occurred.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1217</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Warning</Level>
+		<Description>User login failed due to incorrect credentials.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1664</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Information</Level>
+		<Description>User login failed due to incorrect credentials.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1123</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Error</Level>
+		<Description>User login failed due to incorrect credentials.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1921</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Information</Level>
+		<Description>The system has successfully booted.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1908</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Error</Level>
+		<Description>User login failed due to incorrect credentials.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1721</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Warning</Level>
+		<Description>The system has successfully booted.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1503</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Error</Level>
+		<Description>Application error occurred.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1290</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Information</Level>
+		<Description>User login failed due to incorrect credentials.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1960</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Error</Level>
+		<Description>Configuration settings were changed.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1145</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Error</Level>
+		<Description>Configuration settings were changed.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1227</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Error</Level>
+		<Description>Security permissions were updated.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1637</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Error</Level>
+		<Description>Configuration settings were changed.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1278</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Warning</Level>
+		<Description>The system has successfully booted.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1894</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Warning</Level>
+		<Description>Configuration settings were changed.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1087</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Information</Level>
+		<Description>Security permissions were updated.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1643</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Warning</Level>
+		<Description>Security permissions were updated.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1446</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Error</Level>
+		<Description>Application error occurred.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1736</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Warning</Level>
+		<Description>User login failed due to incorrect credentials.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1259</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Error</Level>
+		<Description>Configuration settings were changed.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1498</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Warning</Level>
+		<Description>The system has successfully booted.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1685</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Error</Level>
+		<Description>User login failed due to incorrect credentials.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1690</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Information</Level>
+		<Description>Security permissions were updated.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1610</EventID>
+		<TaskCategory>Performance</TaskCategory>
+		<Level>Warning</Level>
+		<Description>User login failed due to incorrect credentials.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Security</Source>
+		<EventID>1782</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Error</Level>
+		<Description>User login failed due to incorrect credentials.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1888</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Warning</Level>
+		<Description>User login failed due to incorrect credentials.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>System</Source>
+		<EventID>1503</EventID>
+		<TaskCategory>Startup/Shutdown</TaskCategory>
+		<Level>Error</Level>
+		<Description>Configuration settings were changed.</Description>
+	</Event>
+	<Event>
+		<DateandTime>2024-02-25 17:50:08</DateandTime>
+		<Source>Application</Source>
+		<EventID>1886</EventID>
+		<TaskCategory>Configuration</TaskCategory>
+		<Level>Error</Level>
+		<Description>Security permissions were updated.</Description>
+	</Event>
+</Events>
